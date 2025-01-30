@@ -3,7 +3,7 @@
 #include <inttypes.h>
 #include <stdbool.h>
 #include <stdio.h>
-#include <sys/stat.h> //why?
+#include <sys/stat.h>
 #include <stdlib.h>
 
 #define BIT(x) (1UL << (x))
